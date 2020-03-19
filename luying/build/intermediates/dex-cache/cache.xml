@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yf\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\yf\AndroidStudioProjects\SoundRecording\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_6bf3988e1795c0d25187b19335a9499b0a5c8b60.jar" />
+    </item>
+
+</items>

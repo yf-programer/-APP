@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoundRecording</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">开始录音</string>
+    <string name="stop">停止录音</string>
+    <string name="paly">播放录音</string>
+    <string name="stop_paly">停止播放</string>
+    <string name="ok">播放完毕</string>
+</resources>

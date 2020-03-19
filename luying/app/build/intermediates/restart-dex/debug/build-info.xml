@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="28"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="2588582277700"
+    token="820068985954768860"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="146" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="97" />
+    <task
+        name="verifier"
+        duration="40" />
+
+    <artifact
+        location="C:\Users\yf\AndroidStudioProjects\SoundRecording\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2588582277700"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\yf\AndroidStudioProjects\SoundRecording\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

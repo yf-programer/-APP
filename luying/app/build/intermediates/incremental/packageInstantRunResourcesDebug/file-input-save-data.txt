@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Mar 02 14:34:35 CST 2020
+1.base=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.file=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=C\:\\Users\\yf\\AndroidStudioProjects\\SoundRecording\\app\\build\\intermediates\\res\\resources-debug.ap_
